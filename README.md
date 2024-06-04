@@ -11,5 +11,3 @@ This console application provides weather forecasts for a selected list of citie
 - Switch between cities listed in config.json using "n" (next) and "p" (prev) keys
 - Exits program with "esc"
 - Increase/decrease forecast days using +/- key
-
-- 
