@@ -1,0 +1,12 @@
+{
+    "dependencies":
+        {   
+            "update_frequency": 3,
+            "forecast_day_count": 3,
+            "api-key": "b500HCx8B6wek174ukebuA==ougaycv1Iwumyrfj"
+        },
+    "cities":[
+        "Moscow",
+        "Kazan"
+    ]
+}
